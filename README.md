@@ -1,16 +1,23 @@
-### Hi there 👋
+## Welcome to my profile
+**I'm self taught programmer. I've been programming for 6 years.**
 
-<!--
-**WicherK/WicherK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently I'm looking for someone to collaborate with.**
 
-Here are some ideas to get you started:
+## My skills
+### Web Technology
+![WebSkills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software
+![SoftwareSkills](https://skillicons.dev/icons?i=cs,cpp)
+
+### Games
+![GamesSkills](https://skillicons.dev/icons?i=unity)
+
+## My projects
+|Name|Description|Language|
+|----|-----------|--------|
+|[Portfolio](https://ravenstudio.ga)|Portfolio website|NodeJS, Express|
+|[Chat](https://github.com/WicherK/Chat-App)|Attempt to create real time chat online|NodeJS, Express, Socket.io|
+|[TicTacToe](https://github.com/WicherK/TicTacToe)|Basic TicTacToe web game|HTML, JS|
+|[DoCopy](https://github.com/WicherK/DoCopy)|Tool to create backups|C#|
+|[Krokiet](https://github.com/WicherK/Krokiet)|Very basic keylogger|C++|
