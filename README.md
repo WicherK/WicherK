@@ -17,7 +17,7 @@
 |Name|Description|Language|
 |----|-----------|--------|
 |[Portfolio](https://ravenstudio.ga)|Portfolio website|NodeJS, Express|
-|[Chat](https://github.com/WicherK/Chat-App)|Attempt to create real time chat online|NodeJS, Express, Socket.io|
+|[Chat](https://github.com/WicherK/Chat-App)|Simple online chat|NodeJS, Express, Socket.io|
 |[TicTacToe](https://github.com/WicherK/TicTacToe)|Basic TicTacToe web game|HTML, JS|
 |[DoCopy](https://github.com/WicherK/DoCopy)|Tool to create backups|C#|
 |[Emmet](https://github.com/WicherK/Emmet)|Advanced malware program|C++|
