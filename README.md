@@ -16,7 +16,7 @@
 ## My projects
 |Name|Description|Language|
 |----|-----------|--------|
-|[Portfolio](https://ravenstudio.ga)|Portfolio website|NodeJS, Express|
+|[Portfolio](https://ravenstudio.pl)|Portfolio website|NodeJS, Express|
 |[Chat](https://github.com/WicherK/Chat-App)|Simple online chat|NodeJS, Express, Socket.io|
 |[TicTacToe](https://github.com/WicherK/TicTacToe)|Basic TicTacToe web game|HTML, JS|
 |[DoCopy](https://github.com/WicherK/DoCopy)|Tool to create backups|C#|
