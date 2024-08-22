@@ -11,7 +11,7 @@
 ![SoftwareSkills](https://skillicons.dev/icons?i=cs,cpp)
 
 ### Games
-![GamesSkills](https://skillicons.dev/icons?i=unity)
+![GamesSkills](https://skillicons.dev/icons?i=unity,unreal)
 
 ## My projects
 |Name|Description|Language|
