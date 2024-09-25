@@ -1,7 +1,7 @@
 ## Welcome to my profile
 **I'm IT.**
 
-**Currently I'm looking for someone to collaborate with.**
+**Tired.**
 
 ## My skills
 ### Web Technology
