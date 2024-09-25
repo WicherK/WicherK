@@ -1,5 +1,5 @@
 ## Welcome to my profile
-**I'm self taught programmer. I've been programming for 6 years.**
+**I'm IT.**
 
 **Currently I'm looking for someone to collaborate with.**
 
