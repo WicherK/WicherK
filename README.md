@@ -1,8 +1,4 @@
 ## Welcome to my profile
-**I'm IT.**
-
-**Tired.**
-
 ## My skills
 ### Web Technology
 ![WebSkills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,php,mysql)
