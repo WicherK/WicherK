@@ -1,7 +1,7 @@
 ## Welcome to my profile
 ## My skills
 ### Web Technology
-![WebSkills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,php,mysql)
+![WebSkills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,mysql)
 
 ### Software
 ![SoftwareSkills](https://skillicons.dev/icons?i=cs,cpp)
