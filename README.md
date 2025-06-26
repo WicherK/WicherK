@@ -14,7 +14,7 @@
 |----|-----------|--------|
 |[Portfolio](https://kwdev.pl)|Portfolio website|Python, Flask|
 |[TaskAI](https://github.com/WicherK/TaskAI)|First AI app|React, JavaScript|
-|[Chat](https://github.com/WicherK/Chat-App)|Simple online chat|NodeJS, Express, Socket.io|
+|[Muzodajnia](https://github.com/WicherK/TaskAI)|Terminal-based music player|C++|
 |[TicTacToe](https://github.com/WicherK/TicTacToe)|Basic TicTacToe web game|HTML, JS|
 |[DoCopy](https://github.com/WicherK/DoCopy)|Tool to create backups|C#|
 |[Emmet](https://github.com/WicherK/Emmet)|Advanced malware program|C++|
