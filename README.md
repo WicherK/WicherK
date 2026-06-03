@@ -9,7 +9,7 @@
 ### Games
 ![GamesSkills](https://skillicons.dev/icons?i=unity,unreal)
 
-## My projects
+### Software projects
 |Name|Description|Language|
 |----|-----------|--------|
 |[Portfolio](https://kwdev.pl)|Portfolio website|Python, Flask|
@@ -18,3 +18,8 @@
 |[Muzodajnia](https://github.com/WicherK/Muzodajnia)|Terminal-based music player|C++|
 |[Emmet](https://github.com/WicherK/Emmet)|Advanced malware program|C++|
 |[FBImageDownloader](https://github.com/WicherK/FBImageDownloader)|Download all images from conversation|NodeJS, Puppeteer|
+### Embedded Projects
+
+|Name|Description|Language|
+|----|-----------|--------|
+| [Flashing Heart](https://github.com/WicherK/Flashing-Heart) | ATtiny85 LED heart with 32 LEDs and 74HC595 shift registers | C
