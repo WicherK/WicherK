@@ -17,7 +17,6 @@
 |[HangOut](https://www.youtube.com/watch?v=RqxkSSGQRAE)|Prototype of social networking app|React, Firebase|
 |[Muzodajnia](https://github.com/WicherK/Muzodajnia)|Terminal-based music player|C++|
 |[Emmet](https://github.com/WicherK/Emmet)|Advanced malware program|C++|
-|[FBImageDownloader](https://github.com/WicherK/FBImageDownloader)|Download all images from conversation|NodeJS, Puppeteer|
 ### Embedded Projects
 
 |Name|Description|Language|
